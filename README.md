@@ -1,2 +1,3 @@
 # silentmovie
-adding audio using deep learning to a silent movie 
+
+Objective : adding audios to silent film using generative AI. 
